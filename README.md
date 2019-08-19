@@ -1,3 +1,5 @@
+![alt text](https://github.com/Korlandi42/Demineur_Vue/blob/master/preview/preview.png?raw=true)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
